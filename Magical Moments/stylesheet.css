@@ -1,0 +1,84 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin:0;
+
+}
+.navbar{
+  overflow:hidden;
+  background-color:FFD0D0;
+}
+.navbar a{
+  float:left;
+  display:block;
+  color:rgb(0, 0, 0);
+  text-align:left;
+  padding:10px 20px ;
+  text-decoration:none;
+
+}
+
+
+
+.navbar a:hover{
+  background-color: E78895;
+  color: rgb(255, 255, 255);
+}
+
+.contanier{
+  background-image: url("./mic event.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+  color: rgb(81, 3, 3);
+  font-size: 24px;
+}
+
+
+img{
+  padding-left: 30%;
+  height: 40%;
+  width: 70%;
+}
+
+.foot{
+  padding-left: 55%;
+}
+
+.copyrights{ 
+  font-size:7px;
+}
+
+
+
+body {
+  background-image: url('./peach\ 2.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.map-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; 
+}
+.map-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+}
+.map{
+  padding-left: 29%;
+  padding-right: 20%;
+  
+}
+
+.a{
+  text-align: center;
+}
+
